@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carousel>
+    <metadata>
+        <title>Activity 5 Carousel</title>
+        <viewport>width=device-width, initial-scale=1</viewport>
+        <stylesheets>
+            <stylesheet>https://www.w3schools.com/w3css/4/w3.css</stylesheet>
+            <stylesheet>style.css</stylesheet>
+        </stylesheets>
+    </metadata>
+    <slides>
+        <slide>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Team_Collage_Slider.jpg</slide>
+        <slide>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/4-4.png</slide>
+        <slide>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/3-4.png</slide>
+        <slide>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Winter_2024_Little_Dog_Website_Sliders-1.jpg</slide>
+    </slides>
+    <navigation>
+        <button direction="left">&#10094;</button>
+        <button direction="right">&#10095;</button>
+    </navigation>
+</carousel>
