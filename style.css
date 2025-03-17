@@ -1,0 +1,39 @@
+body {
+    background-color: #000;
+    color: #FFD700;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #FFD700;
+    font-family: cursive;
+    font-size: 2.5em;
+}
+
+.w3-content {
+    border: 5px solid #FFD700;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+}
+
+.mySlides {
+    display: none;
+    border-radius: 10px;
+}
+
+.w3-button {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #FFD700;
+    border: 2px solid #FFD700;
+    padding: 10px 20px;
+    font-size: 18px;
+    transition: all 0.3s ease-in-out;
+}
+
+.w3-button:hover {
+    background-color: #FFD700;
+    color: #000;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.8);
+}
